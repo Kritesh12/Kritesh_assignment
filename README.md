@@ -93,6 +93,7 @@ Next Day Shipping enabled only if weight > 5 kg.
 
 Publication Date appears for scheduled publication.
 
+Node js min version :- 18
 
 For run locally you need to use 
 npm run dev
