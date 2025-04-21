@@ -21,7 +21,7 @@ Over 20 fields with complex logic
 🧩 Technologies Used
 Vue 3
 
-Vite (optional if not mentioned)
+Vite 
 
 VeeValidate & Yup
 
@@ -92,3 +92,7 @@ Discount Value appears for % / fixed discount types.
 Next Day Shipping enabled only if weight > 5 kg.
 
 Publication Date appears for scheduled publication.
+
+
+For run locally you need to use 
+npm run dev
