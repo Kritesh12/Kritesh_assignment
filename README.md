@@ -34,7 +34,7 @@ Custom Vue components (TextInput, SelectInput, FileUpload, etc.)
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/product-submission-form.git
+git clone https://github.com/Kritesh12/Kritesh_assignment.git
 cd product-submission-form
 2. Install Dependencies
 bash
